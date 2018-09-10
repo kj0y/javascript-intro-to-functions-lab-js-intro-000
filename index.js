@@ -5,4 +5,3 @@ function shout(string) {
 funtion whisper(string) {
   return string.toLowerCase()
 }
-
